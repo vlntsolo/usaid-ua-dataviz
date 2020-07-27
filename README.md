@@ -4,7 +4,7 @@ Visualization of the USAID to Ukraine financial aid dataset with Vega Lite API
 
 The source dataset: https://www.iatiregistry.org/dataset/usaid-ua
 
-## Transaction Type
+### Transaction Type
 
 2 	Outgoing Commitment 	
 (A firm, written obligation from a donor or provider to provide a specified amount of funds, under particular terms and conditions, for specific purposes, for the benefit of the recipient.)
